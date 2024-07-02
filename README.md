@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yirang Lim</h1>
-<h3 align="center">A passionate and aspiring frontend and backend developer</h3>
+<h3 align="center">A passionate and aspiring backend developer</h3>
 
-- 🔭 I’m currently working on **E-Commerce**
+- 🔭 I’m currently working on **AI-Video-Generator**
 
-- 🌱 I’m currently learning **Next.JS, SASS,**
+- 🌱 I’m currently learning **Python, AWS Services**
 
 - 📫 How to reach me **ylim.8299@gmail.com**
 
