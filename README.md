@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI-Video-Generator**
 
-- 🌱 I’m currently learning **Python, AWS Services**
+- 🌱 I’m currently learning **Angular.JS**
 
 - 📫 How to reach me **ylim.8299@gmail.com**
 
