@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yirang Lim</h1>
-<h3 align="center">A passionate and aspiring backend developer</h3>
+<h3 align="center">A passionate and aspiring fullstack developer</h3>
 
-- 🔭 I’m currently working on **AI-Video-Generator**
-
-- 🌱 I’m currently learning **Angular.JS**
+- 🌱 I’m currently learning **Angular.JS**, **C#**, **TSQL**
 
 - 📫 How to reach me **ylim.8299@gmail.com**
 
